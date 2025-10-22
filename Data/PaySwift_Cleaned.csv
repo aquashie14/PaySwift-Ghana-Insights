@@ -1,0 +1,101 @@
+User ID,Age,Loan Amount (GHS),Repayment Status,Feature Used Most,Monthly Transactions,Churned?,Default Risk (1-5)
+1001,28,2000,Late Payment,Mobile Payments,12,No,4
+1002,35,5000,On-Time,Budgeting Tool,25,No,1
+1003,22,1000,Defaulted,Loan Services,5,Yes,5
+1004,40,3500,On-Time,Savings Tracker,18,No,2
+1005,30,4000,Late Payment,Investment Advice,9,Yes,3
+1006,27,2500,Defaulted,Loan Services,6,Yes,5
+1007,45,6000,On-Time,Mobile Payments,30,No,1
+1008,33,1500,Late Payment,Budgeting Tool,8,No,3
+1009,29,3000,Defaulted,Loan Services,4,Yes,5
+1010,50,7500,On-Time,Savings Tracker,22,No,2
+1011,24,1200,Defaulted,Loan Services,7,Yes,4
+1012,36,4500,Late Payment,Investment Advice,15,No,3
+1013,31,2800,On-Time,Mobile Payments,20,No,1
+1014,26,1800,Defaulted,Mobile Payments,3,Yes,5
+1015,42,5500,Late Payment,Budgeting Tool,10,No,4
+1016,38,3200,On-Time,Savings Tracker,14,No,2
+1017,23,900,Defaulted,Loan Services,2,Yes,5
+1018,47,8000,On-Time,Investment Advice,28,No,1
+1019,32,2200,Late Payment,Mobile Payments,11,No,3
+1020,25,1300,Defaulted,Loan Services,5,Yes,4
+1021,39,4700,On-Time,Budgeting Tool,19,No,2
+1022,34,3600,Late Payment,Savings Tracker,13,No,3
+1023,21,1100,Defaulted,Loan Services,4,Yes,5
+1024,44,6500,On-Time,Investment Advice,24,No,1
+1025,30,2900,Late Payment,Mobile Payments,10,No,4
+1026,27,1700,Defaulted,Loan Services,3,Yes,5
+1027,41,5200,On-Time,Budgeting Tool,17,No,2
+1028,35,3800,Late Payment,Savings Tracker,12,No,3
+1029,20,950,Defaulted,Loan Services,1,Yes,5
+1030,48,7000,On-Time,Investment Advice,26,No,1
+1031,29,2400,Late Payment,Mobile Payments,9,No,4
+1032,26,1600,Defaulted,Loan Services,6,Yes,5
+1033,37,4300,On-Time,Budgeting Tool,16,No,2
+1034,33,3400,Late Payment,Savings Tracker,11,No,3
+1035,22,1050,Defaulted,Loan Services,3,Yes,5
+1036,46,6800,On-Time,Investment Advice,23,No,1
+1037,31,2700,Late Payment,Mobile Payments,8,No,4
+1038,24,1400,Defaulted,Loan Services,4,Yes,5
+1039,40,4900,On-Time,Budgeting Tool,18,No,2
+1040,36,3900,Late Payment,Savings Tracker,14,No,3
+1041,19,800,Defaulted,Loan Services,2,Yes,5
+1042,49,7200,On-Time,Investment Advice,27,No,1
+1043,28,2100,Late Payment,Mobile Payments,7,No,4
+1044,25,1500,Defaulted,Loan Services,5,Yes,5
+1045,42,5100,On-Time,Budgeting Tool,20,No,2
+1046,34,3700,Late Payment,Savings Tracker,15,No,3
+1047,23,1000,Defaulted,Loan Services,1,Yes,5
+1048,47,6900,On-Time,Investment Advice,25,No,1
+1049,30,2600,Late Payment,Mobile Payments,6,No,4
+1050,27,1900,Defaulted,Loan Services,7,Yes,5
+1051,38,4400,On-Time,Budgeting Tool,21,No,2
+1052,35,4100,Late Payment,Savings Tracker,16,No,3
+1053,21,1150,Defaulted,Loan Services,3,Yes,5
+1054,45,6700,On-Time,Investment Advice,29,No,1
+1055,32,2300,Late Payment,Mobile Payments,10,No,4
+1056,26,1250,Defaulted,Loan Services,4,Yes,5
+1057,43,5300,On-Time,Budgeting Tool,22,No,2
+1058,37,4000,Late Payment,Savings Tracker,17,No,3
+1059,20,850,Defaulted,Loan Services,2,Yes,5
+1060,50,7600,On-Time,Investment Advice,30,No,1
+1061,29,2500,Late Payment,Mobile Payments,9,No,4
+1062,24,1350,Defaulted,Loan Services,6,Yes,5
+1063,39,4600,On-Time,Budgeting Tool,19,No,2
+1064,36,4200,Late Payment,Savings Tracker,18,No,3
+1065,22,950,Defaulted,Loan Services,1,Yes,5
+1066,44,6600,On-Time,Investment Advice,24,No,1
+1067,31,3100,Late Payment,Mobile Payments,11,No,4
+1068,25,1450,Defaulted,Loan Services,5,Yes,5
+1069,41,5400,On-Time,Budgeting Tool,20,No,2
+1070,34,3300,Late Payment,Savings Tracker,12,No,3
+1071,23,975,Defaulted,Loan Services,4,Yes,5
+1072,48,7100,On-Time,Investment Advice,28,No,1
+1073,28,2200,Late Payment,Mobile Payments,8,No,4
+1074,26,1550,Defaulted,Loan Services,7,Yes,5
+1075,40,4800,On-Time,Budgeting Tool,21,No,2
+1076,35,3500,Late Payment,Savings Tracker,13,No,3
+1077,21,925,Defaulted,Loan Services,2,Yes,5
+1078,46,6400,On-Time,Investment Advice,23,No,1
+1079,30,2650,Late Payment,Mobile Payments,7,No,4
+1080,27,1650,Defaulted,Loan Services,6,Yes,5
+1081,42,5050,On-Time,Budgeting Tool,18,No,2
+1082,33,3250,Late Payment,Savings Tracker,14,No,3
+1083,20,875,Defaulted,Loan Services,3,Yes,5
+1084,49,7350,On-Time,Investment Advice,26,No,1
+1085,32,2250,Late Payment,Mobile Payments,9,No,4
+1086,24,1425,Defaulted,Loan Services,5,Yes,5
+1087,38,4550,On-Time,Budgeting Tool,17,No,2
+1088,36,4150,Late Payment,Savings Tracker,15,No,3
+1089,19,825,Defaulted,Loan Services,1,Yes,5
+1090,47,7050,On-Time,Investment Advice,25,No,1
+1091,29,2550,Late Payment,Mobile Payments,10,No,4
+1092,25,1325,Defaulted,Loan Services,4,Yes,5
+1093,43,5150,On-Time,Budgeting Tool,16,No,2
+1094,37,3950,Late Payment,Savings Tracker,11,No,3
+1095,22,1025,Defaulted,Loan Services,2,Yes,5
+1096,45,6550,On-Time,Investment Advice,22,No,1
+1097,31,2850,Late Payment,Mobile Payments,8,No,4
+1098,26,1725,Defaulted,Loan Services,7,Yes,5
+1099,39,4750,On-Time,Budgeting Tool,19,No,2
+1100,34,3650,Late Payment,Savings Tracker,12,No,3
